@@ -1,17 +1,29 @@
 skim.market is a small, simple webpage for quickly scanning over the top Forex pairs. Currently, it features 13 pairs: 
 
 EURUSD
+
 USDJPY
+
 GBPUSD
+
 USDCHF
+
 USDCAD
+
 AUDUSD
+
 NZDUSD
+
 EURGBP
+
 EURAUD
+
 GBPJPY
+
 CHFJPY
+
 NZDJPY
+
 GBPCAD
 
 New features may be added in the future. It's not currently optimized for mobile-- I don't recommend trying it on 
