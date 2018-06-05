@@ -35,8 +35,12 @@ the ability to view more than just Forex pairs, such as stocks and cryptocurrenc
 Feautures / additions that I'd like added in the future: 
  - Mobile compatibility, first and foremost
  - Light / Dark mode toggle
+ - Layout chooser. Compact, Small + Medium Cards (one of these two will be the default), Large view
  - Ability to "favorite" charts for instant viewing 
  - Toggle for Forex/Stocks/Crypto
  - Adsense
  - Customize what the charts show, e.g indicators
+ - "Jump-to" dropdown menu
+ - Toggle switches for individual charts
+ - Customization menu on each chart, with both "Apply" & "Apply to All" buttons
  
